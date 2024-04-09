@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "0x00-es6_basic",
+  "version": "1.0.0",
+  "description": "how to use ES6 in major javascript projets",
+  "main": "0-constants.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "alx-backend-javascript"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "sarah ogunlalu",
+  "license": "ISC"
+}
