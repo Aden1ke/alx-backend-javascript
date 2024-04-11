@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "0x02-es6_classes",
+  "version": "1.0.0",
+  "description": "classes in ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "alx-backend-javascript"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "sarah ogunlalu",
+  "license": "ISC"
+}
